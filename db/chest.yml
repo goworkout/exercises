@@ -1,0 +1,39 @@
+-
+  id: '4660dd08-4774-4c63-81b6-4cb4ad84fcd1'
+  name: 'Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'BARBELL'
+-
+  id: '34c19b30-22ca-42f3-b9f6-1022b413a025'
+  name: 'Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'DUMBBELL'
+-
+  id: '913cf613-eace-4579-9a57-3e618a755c03'
+  name: 'Chest Dip'
+  muscle_group: 'CHEST'
+-
+  id: '87bee256-2d41-4c67-a95c-60c6670002a8'
+  name: 'Chest Fly'
+  muscle_group: 'CHEST'
+  equipment: 'DUMBBELL'
+-
+  id: 'be40a026-e704-4b10-94d9-bc2b603ffbaa'
+  name: 'Decline Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'BARBELL'
+-
+  id: '4e522c5f-2c8e-470e-bcc6-006d0e100b9b'
+  name: 'Decline Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'DUMBBELL'
+-
+  id: 'dbfb7270-573a-4008-aec7-816261e5c674'
+  name: 'Incline Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'BARBELL'
+-
+  id: '655e2716-2f33-432f-ac14-1358b3f45ae5'
+  name: 'Incline Bench Press'
+  muscle_group: 'CHEST'
+  equipment: 'DUMBBELL'

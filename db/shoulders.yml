@@ -1,0 +1,10 @@
+-
+  id: 'ec6ec1dc-0146-484c-a766-0079b3ba2c6f'
+  name: 'Side Raise'
+  muscle_group: 'SHOULDERS'
+  equipment: 'DUMBBELL'
+-
+  id: '2e7b26ed-c9f3-4daf-98db-1218b7186962'
+  name: 'Standing Overhead Press'
+  muscle_group: 'SHOULDERS'
+  equipment: 'BARBELL'

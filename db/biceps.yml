@@ -1,0 +1,20 @@
+-
+  id: 'f4490177-7258-4ab2-b525-51c5e9481282'
+  name: 'Bicep Curl'
+  muscle_group: 'BICEPS'
+  equipment: 'BAND'
+-
+  id: 'f3a91a0c-caeb-442d-8bd7-98874315151c'
+  name: 'Bicep Curl'
+  muscle_group: 'BICEPS'
+  equipment: 'BARBELL'
+-
+  id: '79a4e239-e2a2-4648-8b46-d4a56ae864b6'
+  name: 'Bicep Curl'
+  muscle_group: 'BICEPS'
+  equipment: 'DUMBBELL'
+-
+  id: '9de5c3c1-445d-4978-8341-c2c83950107d'
+  name: 'Hammer Curl'
+  muscle_group: 'BICEPS'
+  equipment: 'DUMBBELL'

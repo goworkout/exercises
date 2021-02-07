@@ -1,0 +1,45 @@
+-
+  id: '8dac1b47-16bc-4abf-8a1f-2f05c32012ee'
+  name: 'Back Squat'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'BARBELL'
+-
+  id: '862fe060-fd16-4c61-80de-f9835f1ac210'
+  name: 'Squat'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'DUMBBELL'
+-
+  id: 'ba2879f7-8930-430d-9046-91558f2353d1'
+  name: 'Front Squat'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'BARBELL'
+-
+  id: 'd7bc9e2a-1eb7-4abf-9090-14410dfd53d6'
+  name: 'Leg Extension'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'MACHINE'
+-
+  id: '679dcd27-e59a-4d37-9a8a-f8d58cc7baeb'
+  name: 'Leg Press'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'MACHINE'
+-
+  id: 'e6ed92b8-3eec-4c80-ba0b-fb51a392a436'
+  name: 'Lunge'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'BARBELL'
+-
+  id: '3b8d741f-66bb-4638-a431-9750f456bcd3'
+  name: 'Lunge'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'DUMBBELL'
+-
+  id: 'b33943a9-85d9-4706-883e-fe5b99399d82'
+  name: 'Romanian Deadlift'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'BARBELL'
+-
+  id: '2bd87ed6-1dac-4540-abbe-9d72a5177516'
+  name: 'Seated Leg Curl'
+  muscle_group: 'UPPER_LEGS'
+  equipment: 'MACHINE'

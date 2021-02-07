@@ -1,0 +1,43 @@
+-
+  id: '816aa62c-71e2-4d06-9864-a8f10c54be0b'
+  name: 'Back Extension'
+  muscle_group: 'BACK'
+-
+  id: 'fa7fc277-93cd-4271-a3ca-7abe81582e9b'
+  name: 'Deadlift'
+  muscle_group: 'BACK'
+  equipment: 'BAND'
+-
+  id: '76c19dd0-f495-4cb4-8ae5-b6d9aab5a76e'
+  name: 'Deadlift'
+  muscle_group: 'BACK'
+  equipment: 'BARBELL'
+-
+  id: 'c8caca21-2c25-4e7d-b9e9-0da707973e6e'
+  name: 'Deadlift'
+  muscle_group: 'BACK'
+  equipment: 'DUMBBELL'
+-
+  id: '55515a61-12b1-4ae3-90c7-7f8c4f764fe0'
+  name: 'Face Pull'
+  muscle_group: 'BACK'
+  equipment: 'CABLE'
+-
+  id: 'd6d89d2c-a0d7-46dc-9ebf-abca6c471cb1'
+  name: 'Pendlay Row'
+  muscle_group: 'BACK'
+  equipment: 'BARBELL'
+-
+  id: '967b95ca-24cc-4d1a-82a6-dc86a36a23f9'
+  name: 'Pull up'
+  muscle_group: 'BACK'
+-
+  id: 'ebf62732-d048-491d-ad01-f40439ee9bdc'
+  name: 'Underhand Bent Over Row'
+  muscle_group: 'BACK'
+  equipment: 'BARBELL'
+-
+  id: '53fadbbd-73f3-41a5-bfcc-8fd0b291117e'
+  name: 'Wide Lat Pulldown'
+  muscle_group: 'BACK'
+  equipment: 'MACHINE'
